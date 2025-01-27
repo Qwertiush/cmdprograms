@@ -1,0 +1,117 @@
+{
+    "tasks": [
+        {
+            "title": "Przypomnie\u0107 retardom o uczelnianym g\u00f3wnu",
+            "expiration_date": "21.08.2024 23:59",
+            "complete": "no",
+            "brick_tasks": [
+                {
+                    "title": "Inventor",
+                    "expiration_date": "21.08.2024 23:59",
+                    "complete": "yes"
+                },
+                {
+                    "title": "Praktyki",
+                    "expiration_date": "21.08.2024 23:59",
+                    "complete": "no"
+                }
+            ]
+        },
+        {
+            "title": "Operation 'How to make a piniondz'",
+            "expiration_date": "23.08.2024 23:59",
+            "complete": "no",
+            "brick_tasks": [
+                {
+                    "title": "Oferty przejrze\u0107'",
+                    "expiration_date": "22.08.2024 23:59",
+                    "complete": "no"
+                },
+                {
+                    "title": "pasywki poszuka\u0107",
+                    "expiration_date": "22.08.2024 23:59",
+                    "complete": "no"
+                }
+            ]
+        },
+        {
+            "title": "naprawa motocykl",
+            "expiration_date": "24.08.2024 23:59",
+            "complete": "no",
+            "brick_tasks": [
+                {
+                    "title": "kierunkowskaz",
+                    "expiration_date": "24.08.2024 23:59",
+                    "complete": "no"
+                },
+                {
+                    "title": "lusterko",
+                    "expiration_date": "24.08.2024 23:59",
+                    "complete": "no"
+                }
+            ]
+        },
+        {
+            "title": "Johnson 0.1",
+            "expiration_date": "30.09.2024",
+            "complete": "no",
+            "brick_tasks": [
+                {
+                    "title": "Inventory system",
+                    "expiration_date": "25.08.2024",
+                    "complete": "yes"
+                },
+                {
+                    "title": "Saving mechanizm",
+                    "expiration_date": "25.08.2024",
+                    "complete": "no"
+                },
+                {
+                    "title": "Interactions system",
+                    "expiration_date": "25.08.2024",
+                    "complete": "yes"
+                },
+                {
+                    "title": "Menu",
+                    "expiration_date": "25.08.2024",
+                    "complete": "yes"
+                },
+                {
+                    "title": "Fix shaking camera",
+                    "expiration_date": "01.09.2024",
+                    "complete": "yes"
+                },
+                {
+                    "title": "Fix loading problems (weird player spawns)",
+                    "expiration_date": "01.09.2024",
+                    "complete": "yes"
+                },
+                {
+                    "title": "Ammo mechanics",
+                    "expiration_date": "01.09.2024",
+                    "complete": "yes"
+                },
+                {
+                    "title": "Crafting mechanic",
+                    "expiration_date": "01.09.2024",
+                    "complete": "yes"
+                },
+                {
+                    "title": "Messages mechanic",
+                    "expiration_date": "01.09.2024",
+                    "complete": "no"
+                },
+                {
+                    "title": "Beasts app mechanic",
+                    "expiration_date": "01.09.2024",
+                    "complete": "yes"
+                },
+                {
+                    "title": "Settings app",
+                    "expiration_date": "01.09.2024",
+                    "complete": "yes"
+                }
+            ]
+        }
+    ]
+}
